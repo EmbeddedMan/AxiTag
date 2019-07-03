@@ -1,0 +1,1 @@
+inkscape --select=text817 --select=text821 --select=text835 --verb ObjectToPath --verb FileSave --verb FileClose --verb FileQuit orig.svg
